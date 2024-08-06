@@ -7,7 +7,7 @@ BƯớc 3: Chuyển dữ liệu từ file HTML sang đuôi jsx
     + Chuyển cả các file tài nguyên img, js, css vào thư mục publiccuar dự án mini-project-1
     + Import css, js vào trong dự án
 Bước 4: Xác định các components
-    + Tiltle
+    + Tiltle  
     + ListStudent
         ++ Student
     + Form
